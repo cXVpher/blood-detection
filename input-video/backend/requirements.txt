@@ -1,0 +1,4 @@
+opencv-python  
+pandas  
+torch  # If using PyTorch for YOLOv8  
+yolov8  # Replace this line with the actual YOLOv8 package you are using  
